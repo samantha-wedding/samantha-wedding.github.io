@@ -51,6 +51,12 @@ html {
     -webkit-tap-highlight-color: transparent;
 }
 
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+body {
+   font-family: 'Nanum Pen Script', serif;
+}
+
 @-ms-viewport {
     width: device-width;
 }
